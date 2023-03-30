@@ -14,3 +14,4 @@ Pod::Spec.new do |spec|
   spec.dependency 'CryptoSwift', '~> 1.5.1'
   spec.dependency 'secp256k1.swift', '~> 0.1.4'
 end
+
